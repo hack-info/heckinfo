@@ -1,6 +1,6 @@
 export default {
   github: 'https://github.com/hack-info/heckinfo',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  docsRepositoryBase: 'https://github.com/hack-info/heckinfo/blob/master',
   titleSuffix: ' – HackInfo',
   logo: (
     <>
